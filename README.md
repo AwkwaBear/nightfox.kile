@@ -1,4 +1,4 @@
-# Niightfox.kile
+# Nightfox.kile
 Nightfox-based themes for the Kile LaTeX editor
 
 ***The original NVIM themes are developed by EdenEast and available [here](https://github.com/EdenEast/nightfox.nvim) I have only adapted them to Kile with the assistance of ChatGPT, I assume no credit for the creation of these themes but would like to make them publicly available for anyone else looking to use them with kile.***
